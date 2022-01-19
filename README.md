@@ -1,0 +1,2 @@
+- POSTECH 22
+- blabla7127@outlook.kr
