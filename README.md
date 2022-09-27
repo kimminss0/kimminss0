@@ -1,2 +1,2 @@
 - POSTECH 22
-- blabla7127@outlook.kr
+- kimminss0@outlook.kr
