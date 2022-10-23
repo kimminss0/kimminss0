@@ -1,2 +1,1 @@
 - POSTECH 22
-- kimminss0@outlook.kr
