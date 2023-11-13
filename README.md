@@ -17,8 +17,8 @@ POSTECH Data Systems Lab Internship
 - Javascript / Typescript
 
 ## Web Development
-- HTML
-- CSS
+- HTML5
+- CSS3
 - React.js
 - Node.js
 - Express.js
@@ -30,6 +30,6 @@ POSTECH Data Systems Lab Internship
 - PostgreSQL
 - Airflow
 
-## Containerization / Infrastructure
+## Containerization / Orchestration
 - Docker
 - Docker Compose
