@@ -9,27 +9,4 @@ POSTECH Data Systems Lab Internship
 - Developed and maintained the [https://ivldb.postech.ac.kr](https://ivldb.postech.ac.kr), which provides an integrated database for the **Proceedings of the VLDB Endowment (PVLDB)**.
 
 # Tech Stack
-
-## Languages
-- C / C++
-- Java
-- Python
-- Javascript / Typescript
-
-## Web Development
-- HTML5
-- CSS3
-- React.js
-- Node.js
-- Express.js
-- Tailwind CSS
-- Vite
-- Next.js
-
-## Database and Data Processing
-- PostgreSQL
-- Airflow
-
-## Containerization / Orchestration
-- Docker
-- Docker Compose
+Interested in my tech stack? [link](tech_stack.md)
